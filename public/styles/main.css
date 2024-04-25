@@ -1,0 +1,43 @@
+:root
+{
+    --background-color: #f8f8f8;
+
+    --main-color: #fff;
+    --accent-color: #ff7b79;
+
+    --text-title-color: #333;
+    --text-color: #555;
+
+    --button-color: #fff;
+}
+
+.flex
+{
+    display: flex;
+}
+.text-center
+{
+    text-align: center;
+}
+
+.flex-center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-row
+{
+    display: flex;
+    flex-direction: row;
+}
+.flex-column
+{
+    display: flex;
+    flex-direction: column;
+}
+.flex-space-between
+{
+    display: flex;
+    justify-content: space-between;
+}
