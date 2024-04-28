@@ -3,11 +3,11 @@
 <title>SchoolTools</title>
 
 <!-- Styles -->
-<link rel="stylesheet" href="./../../public/styles/fonts.css">
-<link rel="stylesheet" href="./../../public/styles/main.css">
-<link rel="stylesheet" href="./../../public/styles/index.css">
+<link rel="stylesheet" href="./../public/styles/fonts.css">
+<link rel="stylesheet" href="./../public/styles/main.css">
+<link rel="stylesheet" href="./../public/styles/style.css">
 <!-- Styles - Mobile -->
-<link rel="stylesheet" href="./../../public/styles/mobile/responsive.css">
+<link rel="stylesheet" href="./../public/styles/mobile/responsive.css">
 
 <!-- Icons -->
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.3.0/uicons-solid-rounded/css/uicons-solid-rounded.css'>
